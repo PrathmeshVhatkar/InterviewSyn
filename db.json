@@ -1,0 +1,28 @@
+{
+  "userData": [
+    {
+      "userName": "user232",
+      "role": "user",
+      "email": "user2@gmail.com",
+      "id": "2"
+    },
+    {
+      "id": "96c1",
+      "userName": "User2",
+      "role": "admin",
+      "email": "user2@gmail.com"
+    },
+    {
+      "id": "5de5",
+      "userName": "divya ",
+      "role": "admin",
+      "email": "diva@gmail.com"
+    },
+    {
+      "userName": "user3",
+      "role": "User",
+      "email": "user3@gmail.com",
+      "id": "3747"
+    }
+  ]
+}
